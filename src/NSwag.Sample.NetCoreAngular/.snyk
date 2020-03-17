@@ -5,41 +5,41 @@ ignore: {}
 patch:
   'npm:debug:20170905':
     - webpack > micromatch > snapdragon > debug:
-        patched: '2020-03-17T08:24:42.932Z'
+        patched: '2020-03-17T08:24:57.868Z'
     - webpack > micromatch > braces > snapdragon > debug:
-        patched: '2020-03-17T08:24:42.932Z'
+        patched: '2020-03-17T08:24:57.868Z'
     - webpack > micromatch > extglob > snapdragon > debug:
-        patched: '2020-03-17T08:24:42.932Z'
+        patched: '2020-03-17T08:24:57.868Z'
     - webpack > micromatch > nanomatch > snapdragon > debug:
-        patched: '2020-03-17T08:24:42.932Z'
+        patched: '2020-03-17T08:24:57.868Z'
     - webpack > micromatch > extglob > expand-brackets > debug:
-        patched: '2020-03-17T08:24:42.932Z'
+        patched: '2020-03-17T08:24:57.868Z'
     - webpack > watchpack > chokidar > braces > snapdragon > debug:
-        patched: '2020-03-17T08:24:42.932Z'
+        patched: '2020-03-17T08:24:57.868Z'
     - webpack > micromatch > extglob > expand-brackets > snapdragon > debug:
-        patched: '2020-03-17T08:24:42.932Z'
+        patched: '2020-03-17T08:24:57.868Z'
     - webpack > watchpack > chokidar > anymatch > micromatch > snapdragon > debug:
-        patched: '2020-03-17T08:24:42.932Z'
+        patched: '2020-03-17T08:24:57.868Z'
     - webpack > watchpack > chokidar > readdirp > micromatch > snapdragon > debug:
-        patched: '2020-03-17T08:24:42.932Z'
+        patched: '2020-03-17T08:24:57.868Z'
     - webpack > watchpack > chokidar > anymatch > micromatch > braces > snapdragon > debug:
-        patched: '2020-03-17T08:24:42.932Z'
+        patched: '2020-03-17T08:24:57.868Z'
     - webpack > watchpack > chokidar > readdirp > micromatch > braces > snapdragon > debug:
-        patched: '2020-03-17T08:24:42.932Z'
+        patched: '2020-03-17T08:24:57.868Z'
     - webpack > watchpack > chokidar > anymatch > micromatch > extglob > snapdragon > debug:
-        patched: '2020-03-17T08:24:42.932Z'
+        patched: '2020-03-17T08:24:57.868Z'
     - webpack > watchpack > chokidar > readdirp > micromatch > extglob > snapdragon > debug:
-        patched: '2020-03-17T08:24:42.932Z'
+        patched: '2020-03-17T08:24:57.868Z'
     - webpack > watchpack > chokidar > anymatch > micromatch > nanomatch > snapdragon > debug:
-        patched: '2020-03-17T08:24:42.932Z'
+        patched: '2020-03-17T08:24:57.868Z'
     - webpack > watchpack > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug:
-        patched: '2020-03-17T08:24:42.932Z'
+        patched: '2020-03-17T08:24:57.868Z'
     - webpack > watchpack > chokidar > anymatch > micromatch > extglob > expand-brackets > debug:
-        patched: '2020-03-17T08:24:42.932Z'
+        patched: '2020-03-17T08:24:57.868Z'
     - webpack > watchpack > chokidar > readdirp > micromatch > extglob > expand-brackets > debug:
-        patched: '2020-03-17T08:24:42.932Z'
+        patched: '2020-03-17T08:24:57.868Z'
     - webpack > watchpack > chokidar > anymatch > micromatch > extglob > expand-brackets > snapdragon > debug:
-        patched: '2020-03-17T08:24:42.932Z'
+        patched: '2020-03-17T08:24:57.868Z'
     - webpack > watchpack > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug:
         patched: '2020-03-17T08:24:42.932Z'
     - snyk > proxy-agent > pac-proxy-agent > get-uri > debug:
