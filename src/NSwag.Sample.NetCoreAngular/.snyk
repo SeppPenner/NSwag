@@ -42,3 +42,5 @@ patch:
         patched: '2020-03-17T08:24:42.932Z'
     - webpack > watchpack > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug:
         patched: '2020-03-17T08:24:42.932Z'
+    - snyk > proxy-agent > pac-proxy-agent > get-uri > debug:
+        patched: '2020-03-17T08:29:20.462Z'
