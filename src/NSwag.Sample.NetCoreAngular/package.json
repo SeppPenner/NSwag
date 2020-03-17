@@ -2,7 +2,9 @@
   "name": "NSwag_Sample_NetCoreAngular",
   "version": "0.0.0",
   "scripts": {
-    "test": "karma start ClientApp/test/karma.conf.js"
+    "test": "karma start ClientApp/test/karma.conf.js",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
     "@angular/animations": "4.3.3",
@@ -46,7 +48,8 @@
     "webpack": "4.0.0",
     "webpack-hot-middleware": "2.18.0",
     "webpack-merge": "4.1.0",
-    "zone.js": "0.8.10"
+    "zone.js": "0.8.10",
+    "snyk": "^1.299.0"
   },
   "devDependencies": {
     "@types/chai": "3.5.2",
@@ -60,5 +63,6 @@
     "karma-jasmine": "1.1.0",
     "karma-webpack": "2.0.3",
     "lru-cache": "^4.1.1"
-  }
+  },
+  "snyk": true
 }
